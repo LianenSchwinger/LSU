@@ -14,6 +14,6 @@ Modular aufgebauter Lautsprecherumschalter mit folgenden Eckdaten
 - LCD-Display
 - Signalisierung der aktiven Komponenten durch externe LED Ansteuerung
 
-zugehörige Diskussion unter
+Zugehörige Diskussion unter
 
 https://www.acoustic-design-magazin.de/Lautsprecher-selber-bauen/Thema/lautsprecher-umschalter-nordhausen-2019/

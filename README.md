@@ -7,9 +7,7 @@ Modular aufgebauter Lautsprecherumschalter mit folgenden Eckdaten
 - max. 8 aktive Lautsprecher
 - max. 8 passive Subwoofer
 - max. 2 Verstärker mit Schutzwiderständen für Röhrenverstärker oder 3 Verstärker
-- max. 4 Quellen (RCA, Toslink und Coax) auf die Verstärker bzw. aktiven 
-
-Lautsprecher
+- max. 4 Quellen (RCA, Toslink und Coax) auf die Verstärker bzw. aktiven Lautsprecher
 - Lautstärkeabgleich für RCA in Verbindung mit passiven Lautsprechern
 - Steuerung über IR-Fernbedienung
 - Steuerung und Konfiguration über Bluetooth
